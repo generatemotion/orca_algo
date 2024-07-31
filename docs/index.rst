@@ -1,4 +1,4 @@
-cmake_example Documentation
+orca_algo Documentation
 ============================
 
 Contents:
@@ -6,4 +6,4 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   cmake_example
+   orca_algo
